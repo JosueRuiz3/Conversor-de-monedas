@@ -25,3 +25,7 @@ A continuación se muestra cómo compilar y ejecutar el programa:
 - Navega hasta el directorio donde se encuentra el archivo `Principal.java`
 - Compila el archivo `javac Principal.java`
 - Ejecuta el programa compilado `java Principal`
+
+Al iniciar el programa, aparecerá un menú donde el usuario deberá seleccionar la opción deseada ingresando el número correspondiente.
+![Screenshot 2024-10-11 205311](https://github.com/user-attachments/assets/d6ba5daf-69bb-4292-8d93-17a594ddbf6e)
+
