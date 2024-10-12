@@ -29,3 +29,13 @@ A continuación se muestra cómo compilar y ejecutar el programa:
 Al iniciar el programa, aparecerá un menú donde el usuario deberá seleccionar la opción deseada ingresando el número correspondiente.
 ![Screenshot 2024-10-11 205311](https://github.com/user-attachments/assets/d6ba5daf-69bb-4292-8d93-17a594ddbf6e)
 
+Al seleccionar la opción 1 en el menú principal, se mostrará un nuevo menú donde el usuario deberá elegir la moneda base para la conversión ingresando las tres letras que identifican su denominación.
+![Screenshot 2024-10-11 205856](https://github.com/user-attachments/assets/4e839077-b045-4044-a315-c83d7cefe981)
+
+
+![Screenshot 2024-10-11 205918](https://github.com/user-attachments/assets/f05dc548-261b-466a-b661-4d7d16c5aace)
+
+Una vez que el usuario ha ingresado una moneda base válida, deberá seleccionar una moneda objetivo. Si ingresa una moneda no disponible, se le pedirá que ingrese una moneda válida. Posteriormente, deberá ingresar la cantidad que desea convertir.
+![Screenshot 2024-10-11 210007](https://github.com/user-attachments/assets/7f1f1b28-3524-4f4c-a0e9-53754f7fe945)
+
+
