@@ -21,7 +21,7 @@ Este proyecto es un programa en Java que actúa como un conversor de monedas. El
 
 A continuación se muestra cómo compilar y ejecutar el programa:
 
--Abre una terminal o línea de comandos
--Navega hasta el directorio donde se encuentra el archivo `Principal.java`
--Compila el archivo `javac Principal.java`
--Ejecuta el programa compilado `java Principal`
+- Abre una terminal o línea de comandos
+- Navega hasta el directorio donde se encuentra el archivo `Principal.java`
+- Compila el archivo `javac Principal.java`
+- Ejecuta el programa compilado `java Principal`
